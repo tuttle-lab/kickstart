@@ -9,3 +9,11 @@ project:
 deployment:
   vercel_production_url: https://kickstart-xi-eight.vercel.app
   github_pages_base_path: /kickstart/
+
+# ── Database ────────────────────────────────────────────────
+# Safe to commit: url and anon key are public-facing.
+# Service role key is secret — store in .secrets/supabase.env,
+# setup.sh will read it from there and push it as a GitHub secret.
+database:
+  supabase_url: ""
+  supabase_anon_key: ""
