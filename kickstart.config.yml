@@ -1,0 +1,11 @@
+# ── Kickstart project config ───────────────────────────────
+# Edit these values when spinning up a new project, then run:
+#   ./scripts/setup.sh
+
+project:
+  name: kickstart
+  github_repo: tuttle-lab/kickstart
+
+deployment:
+  vercel_production_url: https://kickstart-xi-eight.vercel.app
+  github_pages_base_path: /kickstart/
