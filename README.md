@@ -6,7 +6,7 @@ A reusable full-stack project template. Fork this to start new projects with the
 
 **Live:**
 - Production: https://kickstart-xi-eight.vercel.app
-- API docs: https://kickstart-xi-eight.vercel.app/docs
+- API docs: https://kickstart-xi-eight.vercel.app/api/docs
 
 ---
 
